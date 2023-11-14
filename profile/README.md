@@ -1,13 +1,13 @@
 
-# Wafflesarebetter Corp (aka Wafcorp)
-Wafcorp is the group in charge of all things [Wafflesarebetter](https://www.wafcorp.org/waffles)! We help to maintain the [WSMP](https://www.wafcorp.org/smp), [The Discord](https://discord.gg/24qxN7eq59), And The Wafflesarebetter [YouTube channel](https://www.youtube.com/@WafflesAreBetter)! This team has repositories holding all of the information for Wafcorp allowing us to stay organized and collaborate more effectively on projects!
+# WafflesAreBetter Corp (aka Wafcorp)
+Wafcorp is the group in charge of all things [WafflesAreBetter](https://www.wafcorp.org/waffles)! We help to maintain the [WSMP](https://www.wafcorp.org/smp), [the Discord](https://discord.gg/24qxN7eq59), and the WafflesAreBetter [YouTube channel](https://www.youtube.com/@WafflesAreBetter)! This team has repositories holding all of the information for Wafcorp allowing us to stay organized and collaborate more effectively on projects!
 
 
 
 
 ## Team members
 
-- [@Wafflesarebetter](https://github.com/WafflesAreBetterMinecraft)
+- [@WafflesAreBetter](https://github.com/WafflesAreBetterMinecraft)
 - [@ToastedExistence](https://github.com/ToastedExistence)
 - [@TheEnderCore](https://github.com/Theendercore)
 - [@DrThestral](https://github.com/Thestraller)
