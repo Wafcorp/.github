@@ -20,6 +20,7 @@ Wafcorp is the group in charge of all things [Wafflesarebetter](https://www.wafc
 
 <details><summary><a href="https://github.com/Wafcorp/WafflesSMP">WafflesSMP files</a></summary>
 
+Subdirectories 
     - [Season 2 files](https://github.com/Wafcorp/WafflesSMP/tree/main/Season-2)
     - [Season 3 files](https://github.com/Wafcorp/WafflesSMP/tree/main/Season-3)
 
@@ -27,6 +28,7 @@ Wafcorp is the group in charge of all things [Wafflesarebetter](https://www.wafc
 
 <details><summary><a href="https://github.com/Wafcorp/meetingnotes">Wafcorp files</a></summary>
 
+Subdirectories 
     - [Meeting notes](#)
     - [File dump](#)
 
