@@ -32,6 +32,14 @@ Wafcorp is the group in charge of all things [Wafflesarebetter](https://www.wafc
     - [Meeting notes](#)
     - [File dump](#)
 
+</details> 
+
+<details><summary><a href="https://github.com/Wafcorp/StyleGuide">StyleGuide</a></summary>
+
+- Subfiles
+    - [StyleGuide](https://github.com/Wafcorp/StyleGuide/blob/main/README.md)
+
+
 </details>
 
 
