@@ -1,6 +1,6 @@
 
 # Wafflesarebetter Corp (aka Wafcorp)
-Wafcorp is the group in charge of all things [Wafflesarebetter](https://www.wafcorp.org/waffles)! We help to maintain the [WSMP](https://www.wafcorp.org/smp), [The Discord](https://discord.gg/24qxN7eq59), And The Wafflesarebetter [YouTube channel](https://www.youtube.com/@WafflesAreBetter)! This team has a few repositorys holding all of the information for Wafcorp allowing us to stay orignized and collaborate more effectively on projects!
+Wafcorp is the group in charge of all things [Wafflesarebetter](https://www.wafcorp.org/waffles)! We help to maintain the [WSMP](https://www.wafcorp.org/smp), [The Discord](https://discord.gg/24qxN7eq59), And The Wafflesarebetter [YouTube channel](https://www.youtube.com/@WafflesAreBetter)! This team has a few repositories holding all of the information for Wafcorp allowing us to stay organized and collaborate more effectively on projects!
 
 
 
