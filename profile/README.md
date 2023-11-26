@@ -12,7 +12,7 @@ Wafcorp is the group in charge of all things [WafflesAreBetter](https://www.wafc
 - [@TheEnderCore](https://github.com/Theendercore)
 - [@DrThestral](https://github.com/Thestraller)
 - [@TheDwindlingLight](https://github.com/TheDwindlingLight)
-- [@MxPnda](https://github.com/MxPnda)
+
 
 
 ## Public files inside
